@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/junitef/static/css/main.342498f8.css",
+    "main.js": "/junitef/static/js/main.176f4411.js",
+    "static/js/787.91a3b2d9.chunk.js": "/junitef/static/js/787.91a3b2d9.chunk.js",
+    "index.html": "/junitef/index.html",
+    "main.342498f8.css.map": "/junitef/static/css/main.342498f8.css.map",
+    "main.176f4411.js.map": "/junitef/static/js/main.176f4411.js.map",
+    "787.91a3b2d9.chunk.js.map": "/junitef/static/js/787.91a3b2d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.342498f8.css",
+    "static/js/main.176f4411.js"
+  ]
+}
